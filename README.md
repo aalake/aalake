@@ -1,6 +1,7 @@
 Welcome,  
-- Florida Based Engineer
+- Florida Based Engineer (Currently)
 - I'm interested in development using Javascript, Typescript, HTML, CSS, Node.js, MySQL & More...
+- Open to great opportunities!
 #
 Connect with me: 
 <br />
