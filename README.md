@@ -2,8 +2,8 @@ Welcome,
 - Florida Based Engineer
 - I'm interested in development using Javascript, Typescript, HTML, CSS, Node.js, MySQL & More...
 #
-Connect with me:
- 
+Connect with me: 
+<br />
 <a href="http://linkedin.com/in/akeemlake"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
